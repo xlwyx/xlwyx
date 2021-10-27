@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lwy</h1>
 <h3 align="center">A passionate Python and JavaScript</h3>
 
-<p align="left"> <img src="https://i.postimg.cc/t49BjcZ3/Banner.jpg" alt="xlwyx" /> </p>
+<p align="left"> <img src="https://i.postimg.cc/t49BjcZ3/Banner.jpg" alt="xlwyx" height="80%" width="80%" /> </p>
 
 - 🔭 I’m currently working on [LinuxX](linuxod-x.org)
 
