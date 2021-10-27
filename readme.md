@@ -11,6 +11,9 @@
 
 - 💬 Ask me about **I beimg practice and learn python & JavaScript..**
 
+### Stats
+[![xlwyx stats](https://github-readme-stats.vercel.app/api?username=xlwyx&show_icons=true&theme=dracula)](https://github.com/xlwyx/github-readme-stats)]
+
 - 📫 How to reach me **@tx_lwy**
 
 - 📄 Know about my experiences [Ubuntu, Linux Lite, Debian, Arch, ArtixLinux, manjaro & one few of Void!](Ubuntu, Linux Lite, Debian, Arch, ArtixLinux, manjaro & one few of Void!)
