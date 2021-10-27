@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My nickname is Lwy</h1>
+<h1 align="center">Hi 👋, My nickname is Lwy<img src=href="https://avatars.alphacoders.com/avatars/view/98988"><img src="https://avatarfiles.alphacoders.com/989/98988.png" width="26" /></h1>
 <h3 align="center">A passionate Python and JavaScript</h3>
 
 <p align="left"> <img src="https://i.postimg.cc/t49BjcZ3/Banner.jpg" alt="xlwyx" height="80%" width="80%" /> </p>
